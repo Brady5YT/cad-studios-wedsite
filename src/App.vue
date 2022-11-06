@@ -11,7 +11,7 @@ const navbar_height = ref("4rem")
     <a class="col-1" href="https://vitejs.dev">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
-    <div class="fs-1 col-10 text-capitalize text-center">Navbar stuff goes here</div>
+    <div class="fs-1 col-10 text-capitalize text-center">C.A.D Games Studios</div>
     <div class="col-1"></div>
   </div>
   <div class="content container-fluid d-flex flex-row justify-content-center text-center align-items-center">
